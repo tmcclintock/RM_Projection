@@ -1,3 +1,11 @@
+#emacs back ups
+*~
+
+#my data files
+*.dat
+*.txt
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
